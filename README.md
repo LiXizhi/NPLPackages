@@ -21,3 +21,12 @@ Any developer who wants to use other people's modules need to call something lik
 NPL.load("npl_packages/some_test_module/")
 ```
 
+## List Of NPL Packages
+> Add new ones here for ease of reference 
+
+```
+git clone https://github.com/NPLPackages/main.git
+# private: git clone https://github.com/NPLPackages/ParaCraft.git
+# private: git clone https://github.com/NPLPackages/WebServer.git
+# private: git clone https://github.com/LiXizhi/script.git
+```
